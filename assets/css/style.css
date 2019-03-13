@@ -66,8 +66,10 @@ h2{
 
 #profilepic{
     float: left;
-    height: 120px;
+    height: 125px;
+    padding: 7px;
     width: auto;
+
 }
 
 p{
@@ -111,6 +113,7 @@ textarea{
     margin-top: 10px;
     border: none;
     font-size: 15px;
+    width: 10%;
 }
 
 .footer{
